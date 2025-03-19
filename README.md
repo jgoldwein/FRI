@@ -86,7 +86,8 @@ This report constitutes a **dynamic analysis**. The FRI will be revised with eac
 
 ### 3.2 Annotated FRI Graph
 
-![Trump-Musk DOGE FRI Graph]("images/graph/FRI Graph - 20250319.png")
+![FRI Graph showing Critical Risk status and key events including Musk donations, DOGE launch, court ruling, TSLA stock drop, and SpaceX contract](https://github.com/jgoldwein/FRI/blob/main/images/graph/FRI%20Graph%20-%2020250319.png)
+
 
 **Color Zones:**
 - Green: Low Risk (50–60)
