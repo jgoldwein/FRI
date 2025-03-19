@@ -1,4 +1,5 @@
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+![License: © 2025 Joel Goldwein - All Rights Reserved](https://img.shields.io/badge/License-All--Rights--Reserved-red)
+[View License](https://github.com/jgoldwein/FRI/blob/main/LICENSE.md)
 
 # The Trump-Musk DOGE Dynamic: A Living Analysis Using the FRI Framework
 
@@ -85,7 +86,7 @@ This report constitutes a **dynamic analysis**. The FRI will be revised with eac
 
 ### 3.2 Annotated FRI Graph
 
-![Trump-Musk DOGE FRI Graph](./images/fri-graph.png)
+![Trump-Musk DOGE FRI Graph](path-to-your-generated-graph.png)
 
 **Color Zones:**
 - Green: Low Risk (50–60)
