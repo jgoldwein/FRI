@@ -86,7 +86,7 @@ This report constitutes a **dynamic analysis**. The FRI will be revised with eac
 
 ### 3.2 Annotated FRI Graph
 
-![Trump-Musk DOGE FRI Graph](path-to-your-generated-graph.png)
+![Trump-Musk DOGE FRI Graph](images/graph/FRI Graph - 20250319.png)
 
 **Color Zones:**
 - Green: Low Risk (50–60)
