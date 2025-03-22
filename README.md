@@ -3,7 +3,9 @@
 
 # The Trump-Musk DOGE Dynamic: A Living Analysis Using the FRI Framework
 
-## Executive Dashboard (March 19, 2025)
+## Weekly Executive Dashboard (March 19, 2025)
+
+*Note:*  See [BlueSky](https://bsky.app/profile/jgoldwein.bsky.social) for more recent data.
 
 **Current Risk Level:**  
 🔴 **Critical Risk (FRI: 72/100)**
